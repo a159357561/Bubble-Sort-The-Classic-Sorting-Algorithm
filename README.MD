@@ -1,6 +1,6 @@
 Title
 
-“Bubble Sort: The Classic Sorting Algorithm”
+# “Bubble Sort: The Classic Sorting Algorithm”
 
 Content
 
