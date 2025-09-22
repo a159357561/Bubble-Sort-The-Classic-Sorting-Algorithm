@@ -2,15 +2,15 @@ Title
 
 # “Bubble Sort: The Classic Sorting Algorithm”
 
-##Content
+## Content
 
 In computer science, sorting is one of the most fundamental problems. Although modern applications use advanced algorithms like Quick Sort or Merge Sort, the Bubble Sort remains a classic example often taught to beginners.
 
-##How It Works
+## How It Works
 
 Bubble Sort repeatedly steps through the list, compares adjacent items, and swaps them if they are in the wrong order. This process continues until no swaps are needed.
 
-##Pseudocode
+## Pseudocode
 ```
 procedure bubbleSort(A : list of sortable items)
   n = length(A)
@@ -26,7 +26,7 @@ procedure bubbleSort(A : list of sortable items)
 end procedure
 ```
 
-##Example in Python
+## Example in Python
 ```
 def bubble_sort(arr):
     n = len(arr)
@@ -39,12 +39,12 @@ def bubble_sort(arr):
 print(bubble_sort([5, 2, 9, 1, 5, 6]))
 ```
 
-##Pros & Cons
+## Pros & Cons
 
 ✅ Easy to understand and implement
 ✅ Good for teaching the basics of algorithm design
 ❌ Very inefficient for large datasets (O(n²) time complexity)
 
-##Conclusion
+## Conclusion
 
 Bubble Sort may not be practical today, but it remains an important stepping stone in learning programming fundamentals. It introduces the ideas of iteration, conditionals, and algorithm efficiency — key concepts that every programmer needs.
